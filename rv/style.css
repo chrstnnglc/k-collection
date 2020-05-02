@@ -1,0 +1,39 @@
+.card .card-content {
+	padding: 20px;
+}
+
+a {
+	color: #ff6f61;
+}
+
+a:visited {
+	color: #ff6f61;
+}
+
+a:hover {
+	color: #ffd1c3;
+}
+
+.irene {
+	background-color: #ffb3ba;
+}
+
+.seulgi {
+	background-color: #ffffba;
+}
+
+.wendy {
+	background-color: #bae1ff;
+}
+
+.joy {
+	background-color: #baffc9;
+}
+
+.yeri {
+	background-color: #e1bfff;
+}
+
+.rv {
+	background-color: #ffd1c3;
+}
